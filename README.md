@@ -15,10 +15,10 @@ Project 3
  ## Step 1 – Backend Configuration 
     
     
-    ![npm init ](https://user-images.githubusercontent.com/107949309/194070188-a8854c6d-5c28-4a58-aefa-689cd08dfb77.png)
+  ![npm init ](https://user-images.githubusercontent.com/107949309/194070188-a8854c6d-5c28-4a58-aefa-689cd08dfb77.png)
 
     
-    ![cat index js](https://user-images.githubusercontent.com/107949309/194072464-4396c6c3-f86f-4558-8724-f79e05302de5.png)
+  ![cat index js](https://user-images.githubusercontent.com/107949309/194072464-4396c6c3-f86f-4558-8724-f79e05302de5.png)
 
 
 ## Install ExpressJS 
