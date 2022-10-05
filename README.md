@@ -81,7 +81,11 @@ Project 3
 
 
 ## Frontend Creation (continued)
-    
+  
+ ![opening index js    update ](https://user-images.githubusercontent.com/107949309/194151616-2bf33a84-b97b-476b-bc7c-11c49c7702fe.png)
+
+ ![opening index js    updates](https://user-images.githubusercontent.com/107949309/194151152-2b2f8c65-e021-45cf-adca-3f58365c13d0.png)
+
  
  ![server running nide js port 5000](https://user-images.githubusercontent.com/107949309/194145146-0fab525d-8d72-4a1a-9412-d116ac2c26d3.png)
 
